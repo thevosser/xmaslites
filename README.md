@@ -1,13 +1,11 @@
 # xmaslites
 
-Christmas lights project to keep me coding in a time where I'm not doing it professionally
-
-
+Christmas lights project to keep me coding in a time where I'm not doing it professionally.  Using a Raspberry Pi Zero WH 
 
 ### Materials
 - Raspberry Pi ZeroWH (link)
-- WS2812B 300 RGB LED strip (link)
-- AC/DC Power Supply 5V 15A
+- WS2812B 300 RGB LED strip (*[link](https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-waterproof/dp/B01CDTELBE/ref=asc_df_B01CDTEJBG/?tag=hyprod-20&linkCode=df0&hvadid=242074984067&hvpos=&hvnetw=g&hvrand=14147673531154704499&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9018109&hvtargid=pla-372649960034&th=1)*)
+- AC/DC Power Supply 5V 15A (*[link](https://www.amazon.com/ALITOVE-Transformer-Converter-5-5x2-1mm-100V-240V/dp/B01LXN7MN3/ref=sr_1_3?crid=UFBKFLI4N6O7&keywords=5v%2B15a%2Bpower%2Bsupply&qid=1637358542&sprefix=5v%2B15a%2B%2Caps%2C176&sr=8-3&th=1)*)
   - Not enough to light strip to full brightness
 - Lead wires
 
@@ -49,7 +47,7 @@ Christmas lights project to keep me coding in a time where I'm not doing it prof
 
 
 ### References
-- Neopixel library reference
-- Adafruit neopixel tutorial
-- Flask guide (Miguel's)
-- 
+- Neopixel library reference (*[link]()*)
+- Adafruit neopixel tutorial (*[link]()*)
+- Flask guide (Miguel's) (*[link](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)*)
+-  (*[link]()*)
