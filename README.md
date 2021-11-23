@@ -1,6 +1,6 @@
 # xmaslites
 
-Christmas lights project to keep me coding in a time where I'm not doing it professionally.  Using a Raspberry Pi Zero WH 
+Christmas lights project to keep me coding in a time where I'm not doing it professionally.  Using a Raspberry Pi Zero WH to host a Python Flask/NGINX simple webpage that changes values monitored by another Python script using Adafruit's Neopixel library to control a WS2812B 300 RGB LED strip.  Nothing complex, just something to keep programming.  I'll note, I started with Arduino, but moved to Raspberry Pi so I could easily have a web interface.  
 
 ### Materials
 - Raspberry Pi ZeroWH (link)
@@ -36,6 +36,7 @@ Christmas lights project to keep me coding in a time where I'm not doing it prof
 - setup flask in folder
 - write flask code on Windows
 - setup simple website on Windows
+- Setup ajax on the website to modify light values
 - setup select file for flask and led code to talk to each other
 - clean up and refactor code for efficiency
 - setup files to run on their on at startup
@@ -50,4 +51,10 @@ Christmas lights project to keep me coding in a time where I'm not doing it prof
 - Neopixel library reference (*[link]()*)
 - Adafruit neopixel tutorial (*[link]()*)
 - Flask guide (Miguel's) (*[link](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)*)
+- Flask NGINX Guide (*[link](https://flask.palletsprojects.com/en/2.0.x/deploying/uwsgi/)*)
+- NGINX Flask Guide (*[link](https://unit.nginx.org/howto/flask/)*)
+- Ubuntu Samba Share
+- Raspberry Pi SSH/Wifi config
+- Neopixel power guide (where did I read how much current was required?)
+- Ajax guide
 -  (*[link]()*)
