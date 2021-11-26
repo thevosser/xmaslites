@@ -51,7 +51,10 @@ Christmas lights project to keep me coding in a time where I'm not doing it prof
 - Neopixel library reference (*[link]()*)
 - Adafruit neopixel tutorial (*[link]()*)
 - Flask guide (Miguel's) (*[link](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)*)
-- Flask NGINX Guide (*[link](https://flask.palletsprojects.com/en/2.0.x/deploying/uwsgi/)*)
+- Not used Flask NGINX Guide (*[link](https://flask.palletsprojects.com/en/2.0.x/deploying/uwsgi/)*)
+- Flask Apache2 Guide (*[link](https://flask.palletsprojects.com/en/2.0.x/deploying/mod_wsgi/)*)
+- Flask Apache2 Guide (*[link](https://www.bogotobogo.com/python/Flask/Python_Flask_HelloWorld_App_with_Apache_WSGI_Ubuntu14.php)*)
+- Another Flask WSGI Apache2 Guide (*[link](https://python.plainenglish.io/how-to-securely-deploy-flask-with-apache-in-a-linux-server-environment-7eacd4c69a73)*)
 - NGINX Flask Guide (*[link](https://unit.nginx.org/howto/flask/)*)
 - Ubuntu Samba Share
 - Raspberry Pi SSH/Wifi config
